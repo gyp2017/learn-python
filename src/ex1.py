@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 1 첫 번째 프로그램
 
 print "Hello World!"
 print "Hello Again"
