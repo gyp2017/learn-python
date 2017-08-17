@@ -17,4 +17,4 @@ print "눈은 %s이고 머리는 %s이에요." % (my_eye, my_hair)
 print "이는 보통 %s이고 커피를 먹으면 달라져요" % my_teeth
 
 print "%d, %d, %d를 모두 더하면 %d 랍니다." % (
-  my_age, my_height, my_weight, my_age + my_height + my_weight)
+    my_age, my_height, my_weight, my_age + my_height + my_weight)
