@@ -26,12 +26,12 @@ print '15. not (10 == 1 or 1000 == 1000) : %r' % (not (10 == 1 or 1000 == 1000))
 print "----------------------------"
 
 print '16. not (1 != 10 or 3 == 4)                                      : %r' % (
-  not (1 != 10 or 3 == 4))
+    not (1 != 10 or 3 == 4))
 print '17. not ("testing" == "testing" and "Zed"  == "Cool Guy")        : %r' % (
-  not ("testing" == "testing" and "Zed"  == "Cool Guy"))
+    not ("testing" == "testing" and "Zed"  == "Cool Guy"))
 print '18. 1 == 1 and not ("testing" == 1 or 1 == 0)                    : %r' % (
-  1 == 1 and not ("testing" == 1 or 1 == 0))
+    1 == 1 and not ("testing" == 1 or 1 == 0))
 print '19. "chunky" == "bacon" and not (3 == 4 or 3 == 3)               : %r' % (
-  "chunky" == "bacon" and not (3 == 4 or 3 == 3))
+    "chunky" == "bacon" and not (3 == 4 or 3 == 3))
 print '20. 3 != 4 and not ("testing" != "test" or "Python" == "Python") : %r' % (
-  3 != 4 and not ("testing" != "test" or "Python" == "Python"))
+    3 != 4 and not ("testing" != "test" or "Python" == "Python"))
