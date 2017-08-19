@@ -44,7 +44,7 @@ def convert(snippet, phrase):
         param_count = random.randint(1, 3)
         param_names.append(', '.join(random.sample(WORDS, param_count)))
 
-    for result in snippet, phrase:
+    for sentence in snippet, phrase:
         result = sentence[:]
 
         # 가짜 클래스 이름
