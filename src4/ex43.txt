@@ -1,0 +1,12 @@
+* Map 지도
+  - next_scene 다음 장면
+  - opening_scene 장면 열기
+* Engine 엔진
+  - play 플레이
+* Scene 장면
+  - enter 입장
+  * Death 사망
+  * Central Corridor 중앙 복도
+  * Laser Weapon Armory 레이저 무기고
+  * The Bridge 다리
+  * Escape Pod 구명정
