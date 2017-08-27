@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 48 사용자 입력 고급
 
 from nose.tools import *
 from ex48 import lexicon

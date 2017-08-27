@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 47 자동 테스트
 
 from nose.tools import *
 from ex47.game import Room
